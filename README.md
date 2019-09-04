@@ -4,6 +4,9 @@
 
 #### By _**Robert Lee**_
 
+<img src="./src/assets/images/TMC2000-2.png" style='width: 40%'>
+<img src="./src/assets/images/TMC2000-3.png" style='width: 40%'>
+
 ## Description
 
 _A variant of chess, created in React._
